@@ -1,0 +1,17 @@
+{
+    "result": {
+        "blocks": {
+            "personalImpact": {
+                "data": {
+                    "co2": 999,
+                    "energy": 999,
+                    "materials": 0,
+                    "pineYears": 0,
+                    "water": 999
+                }
+            }
+        },
+        "isAuthorized": false
+    },
+    "status": "ok"
+}
